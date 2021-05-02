@@ -1,7 +1,8 @@
-Hello! 👋 Wellcome to my GitHub! 🤖
+Hello! 👋 Wellcome to my GitHub! 
 
 - 🎯 I’m currently working on to become UI/UX designer | Front-end developer
 - 🌱 I’m currently learning HTML/CSS/JavaScript and Interaction design.
 - 📫 How to reach me: https://www.linkedin.com/in/lolitadr/
-- 🎨 Love Art and Creativity ✨
+- 🎨 Interests: Art, Design science of the mind, computer science, artificial intelligence 🤖
+- ✨ Love: Art, Desig, Books and travel
 
