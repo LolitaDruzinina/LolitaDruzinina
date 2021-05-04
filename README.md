@@ -1,4 +1,4 @@
-## Hello! 👋 Wellcome to my GitHub! 
+## Hello! 👋 Wellcome to my GitHub! :octocat:
 
 - 🎯 I’m currently working on to become UI/UX designer | Front-end developer
 - 🌱 I’m currently learning HTML/CSS/JavaScript and Interaction design.
