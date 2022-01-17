@@ -5,4 +5,5 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/lolitadr/)
 - 🎨 Interests: Art, Design science of the mind, computer science, artificial intelligence 🤖
 - ✨ Love: Art, Desig, Books and travel
+- :fire: Have interest in psychology and marketing
 
